@@ -4,4 +4,3 @@ jinja2
 pymysql
 python-multipart
 itsdangerous>=2.1.2
-
